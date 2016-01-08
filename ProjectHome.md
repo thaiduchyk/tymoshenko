@@ -1,0 +1,1 @@
+Sea-Battle game created by using Java, Spring-MVC, JQuerry, Hibernate and other
